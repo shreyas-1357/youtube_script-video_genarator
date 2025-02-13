@@ -1,8 +1,8 @@
 streamlit==1.42.0
-opencv-python  # For OpenCV (cv2)
-numpy  # For numerical operations
-requests  # For making API calls
-pillow  # For handling images (PIL)
-python-dotenv  # For loading .env variables
-textwrap3  # For text formatting
-together  # Together AI SDK
+opencv-python-headless  # ✅ Lighter version of OpenCV (No GUI dependencies)
+numpy
+requests
+pillow
+python-dotenv
+textwrap3
+together
